@@ -1,1 +1,0 @@
-prnit('ni how')
